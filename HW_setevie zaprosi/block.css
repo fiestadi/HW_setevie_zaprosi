@@ -1,0 +1,19 @@
+body{
+   background-image: url(https://www.ekontech.cz/sites/default/files/styles/large/public/clanky/obrazky/internet-41.jpg?itok=SVGx4sz2);
+   background-repeat: no-repeat;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+
+}
+.button{
+
+  font-size: 40px;
+  margin-left: 80px;
+  margin-top: 450px;
+  background-color: transparent ;
+  border-radius: 50px;
+  cursor: pointer;
+  color: black;
+   
+}

@@ -1,0 +1,53 @@
+body{
+   background-image: url(https://cdn.bfm.ru/news/maindocumentphoto/2017/03/15/matrix.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.text{
+   color: azure;
+   text-align: center;
+   margin-top: 150px;
+font-size: 50px;
+   
+}
+#login-form{
+   text-align: center;
+   color:rgba(168, 242, 161, 0.7);
+   margin-top: 40px;
+   font-size: 25px;
+
+}
+#username{
+   background: rgba(168, 242, 161, 0.7);
+   border-radius: 20px;
+   width: 220px;
+   height: 30px;
+margin-right: 48px;
+font-size: 20px; 
+}
+.submit{
+   border: none;
+   border-radius: 30px;
+   font-size: 20px;
+   height: 35px;
+   outline: none;
+   width: 100px;
+   background: rgba(168, 242, 161, 0.7);
+   cursor: pointer;
+   transition: .3s;
+   margin-left: 65px;
+  
+}
+#email{
+   background: rgba(168, 242, 161, 0.7);
+   border-radius: 20px;
+   width: 220px;
+   height: 30px; 
+   font-size: 20px; 
+}
+#validation{
+   text-align: center;
+   color: azure; 
+   font-size: 30px;
+   margin-left: 30px;
+}
